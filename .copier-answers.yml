@@ -1,0 +1,21 @@
+# Changes here will be overwritten by Copier
+_commit: 1.2.6
+_src_path: https://github.com/pawamoy/copier-pdm.git
+author_email: jahagirdar.vs@dyumnin.com
+author_fullname: Vijayvithal Jahagirdar
+author_username: jahagirdar
+copyright_date: '2024'
+copyright_holder: Dyumnin Semiconductors
+copyright_holder_email: jahagirdar.vs@gmail.com
+copyright_license: MIT License
+insiders: false
+project_description: '   Template file for creation of cocotb VIP
+
+    '
+project_name: Cocotb VIP templates
+python_package_command_line_name: cocotb-vip-templates
+python_package_distribution_name: cocotb-vip-templates
+python_package_import_name: cocotb_vip_templates
+repository_name: cocotb-vip-templates
+repository_namespace: dyumnin-interns
+repository_provider: github.com
