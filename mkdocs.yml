@@ -20,7 +20,7 @@ nav:
   - Changelog: changelog.md
   - Credits: credits.md
   - License: license.md
-  - Development: dev.md
+  - Development Notes: dev.md
 # defer to gen-files + literate-nav
 - API reference:
   - Cocotb VIP templates: reference/
