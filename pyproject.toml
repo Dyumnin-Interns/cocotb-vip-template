@@ -27,7 +27,10 @@ classifiers = [
     "Topic :: Utilities",
     "Typing :: Typed",
 ]
-dependencies = []
+dependencies = [
+    "cocotb>=1.9.1",
+    "cocotb-bus>=0.2.1",
+]
 
 [project.urls]
 Homepage = "https://dyumnin-interns.github.io/cocotb-vip-templates"

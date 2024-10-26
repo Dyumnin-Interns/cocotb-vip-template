@@ -1,1 +1,1 @@
-"""Monitor Class"""
+"""Monitor Class."""

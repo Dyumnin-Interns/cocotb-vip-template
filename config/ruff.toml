@@ -72,6 +72,8 @@ ignore = [
     "SLF001", # Private member accessed
     "TRY003",  # Avoid specifying long messages outside the exception class
     "RUF100",
+"FBT001",
+"FBT002",
 "ARG001",
 ]
 
