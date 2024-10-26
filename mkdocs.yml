@@ -24,7 +24,7 @@ nav:
 # defer to gen-files + literate-nav
 - API reference:
   - Cocotb VIP templates: reference/
-- Development:
+- Contributors:
   - Contributing: contributing.md
   - Code of Conduct: code_of_conduct.md
   - Coverage report: coverage.md
