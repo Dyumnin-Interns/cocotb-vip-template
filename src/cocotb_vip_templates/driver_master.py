@@ -16,8 +16,8 @@ class MasterDriver:
     def write(self, address: int, data: bytes) -> None:
         """Write to DUT."""
         cocotb.log.info(
-            f"Dummy write  got {address} {data} doing nothing."
-        )  # type:ignore[str-bytes-safe]
+            f"Dummy write  got {address} {data} doing nothing.",  # type:ignore[str-bytes-safe]
+        )
 
     def anyothervipcmd(self) -> None:
         """Any other command that is mentioned in VIP document."""
