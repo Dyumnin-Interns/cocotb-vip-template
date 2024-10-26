@@ -8,21 +8,6 @@
 
    Template file for creation of cocotb VIP
 
-## Development
-
-```bash
-python3 -m pip install --user pipx
-pipx install pdm
-pdm install
-pdm install -G ci-quality
-pdm run pre-commit install
-```
-
-or simply run make install which will execute the above commands.
-```bash
-make install
-```
-Install pdm
 
 ## Package Installation
 
@@ -33,5 +18,5 @@ pip install cocotb-vip-templates
 ```
 
 ## Package Documents
-* Overview of what the package does.
+* 50 words description of supported protocol (Name, link to std, rev supported etc.)
 * Example of how to use the package in your code.
