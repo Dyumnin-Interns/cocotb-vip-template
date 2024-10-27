@@ -21,6 +21,7 @@ nav:
   - Credits: credits.md
   - License: license.md
   - Development Notes: dev.md
+  - Task List: todo.md
 # defer to gen-files + literate-nav
 - API reference:
   - Cocotb VIP templates: reference/
